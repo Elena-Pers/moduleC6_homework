@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    margin: 10%;
+    }
+
+.btn {
+    border: none;
+    width: 500px;
+    height: 100px;
+    font-size: 18px;
+    border-radius: 15px;
+    background-color: #EF9A9A;
+  }
+  
+  .btn:hover, .btn:active, .btn:focus {          transform: scale(1.2);    
+  }
+  
+  .btn_text {
+    margin-right: 20px;
+  }
